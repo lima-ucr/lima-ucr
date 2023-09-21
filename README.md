@@ -12,4 +12,5 @@
   </h2>Universidad de Costa Rica</h2>
 </div>
 
-![Uploading LIMA EIE editable Logo-CelesteUCR.png…]()
+![LIMA EIE editable Logo-CelesteUCR](https://github.com/lima-ucr/lima-ucr/assets/135917299/1cfcd8b6-7aa9-4580-9045-a70d48388ef9)
+
