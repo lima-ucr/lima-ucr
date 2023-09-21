@@ -16,4 +16,4 @@
 <em> Coordinado por: Prof. Erick Carvajal Barboza, PhD  </em>
 </p>
 
-El LIMA trabaja principalmente en la aplicación de técnicas de Machine Learning para acelerar el proceso de automatización de diseño en VLSI, aunque también coordina alguna proyectos de acción social que pretenden proyectar la labor de la Ingeniería Eléctrica hacia la sociedad costarricense. 
+El LIMA trabaja principalmente en la aplicación de técnicas de Machine Learning para acelerar el proceso de automatización de diseño en VLSI, en particular, haciendo uso de herramientas de software libre, como OpenLane y OpenROAD. También coordina alguna proyectos de acción social que pretenden proyectar la labor de la Ingeniería Eléctrica hacia la sociedad costarricense.
