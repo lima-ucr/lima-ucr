@@ -6,5 +6,4 @@
   </h2>Universidad de Costa Rica</h2>
 </div>
 
-![LIMA EIE editable Logo-CelesteUCR](https://github.com/lima-ucr/lima-ucr/assets/135917299/1cfcd8b6-7aa9-4580-9045-a70d48388ef9 =250x250)
-
+<img src="[https://github.com/favicon.ico](https://github.com/lima-ucr/lima-ucr/assets/135917299/1cfcd8b6-7aa9-4580-9045-a70d48388ef9)https://github.com/lima-ucr/lima-ucr/assets/135917299/1cfcd8b6-7aa9-4580-9045-a70d48388ef9" width="48">
