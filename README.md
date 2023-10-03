@@ -33,7 +33,7 @@
 
 <div id="badges" align="center">
   <a href="https://eie.ucr.ac.cr/laboratorios/lima/">
-    <img src="https://img.shields.io/badge/Página_LIMA-darkblue?style=for-the-badge" alt="IE Badge"/>
+    <img src="https://img.shields.io/badge/Página_Web_LIMA-darkblue?style=for-the-badge" alt="IE Badge"/>
   </a>
   <a href="https://instagram.com/lima_eie?igshid=MzRlODBiNWFlZA==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
