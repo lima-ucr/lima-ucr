@@ -106,7 +106,7 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
 <ol>
     <li> <a href="https://ieeexplore.ieee.org/document/8807063">Machine Learning-Based Pre-Routing Timing Prediction with Reduced Pessimism</a> en DAC 2019 </li>
     <li> <a href="https://ieeexplore.ieee.org/abstract/document/9045201">FIST: A Feature-Importance Sampling and Tree-Based Method for Automatic Design Flow Parameter Tuning</a> en ASP-DAC 2020 </li>
-    <li> <a href="https://ieeexplore.ieee.org/abstract/document/9407243">Machine Learning-Based Pre-Routing Timing Prediction with Reduced Pessimism</a> en HPCA 2021 </li>
+    <li> <a href="https://ieeexplore.ieee.org/abstract/document/9407243">Automatic Microprocessor Performance Bug Detection</a> en HPCA 2021 </li>
 </ol>
   
 ### Capitulos de Libro
@@ -122,7 +122,7 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
 ### Pre-Prints
 
 <ol>
-    <li> <a href="https://arxiv.org/abs/2303.15280">Machine Learning-Based Pre-Routing Timing Prediction with Reduced Pessimism</a> </li>
+    <li> <a href="https://arxiv.org/abs/2303.15280">Machine Learning for Microprocessor Performance Bug Localization</a> </li>
 </ol>
 
 
