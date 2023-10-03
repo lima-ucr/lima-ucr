@@ -67,6 +67,7 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
 <section id="proyectos-en-progreso">
 <ul>
   <li>Implementación de un modelo de Machine Learning para la predicción de retardos en circuitos integrados 🧑‍💻🕐</li>
+  <li>Implementación de un modelo de Deeo Learning para la predicción de rutabilidad en circuitos integrados 🧑‍💻</li>
   <li>Creación de un Manual de uso de la herramienta OpenLANE ✏️📑</li>
   <li>Configuración e implementación en OpenLANE de diseños de benchmarks libres de circuitos digitales 🔗⚒️</li>
   <li>Desarrollo de un taller de electrónica para niños/as 👧👦</li>
@@ -99,7 +100,31 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
 
 ## Artículos científicos 📄🖊️
 <section id="articulos-cientificos">
-<a href="https://ieeexplore.ieee.org/document/8807063">Machine Learning-Based Pre-Routing Timing Prediction with Reduced Pessimism</a>
+
+### Artículos de Conferencia
+
+<ol>
+    <li> <a href="https://ieeexplore.ieee.org/document/8807063">Machine Learning-Based Pre-Routing Timing Prediction with Reduced Pessimism</a> en DAC 2019 </li>
+    <li> <a href="https://ieeexplore.ieee.org/abstract/document/9045201">FIST: A Feature-Importance Sampling and Tree-Based Method for Automatic Design Flow Parameter Tuning</a> en ASP-DAC 2020 </li>
+    <li> <a href="https://ieeexplore.ieee.org/abstract/document/9407243">Machine Learning-Based Pre-Routing Timing Prediction with Reduced Pessimism</a> en HPCA 2021 </li>
+</ol>
+  
+### Capitulos de Libro
+
+<ol>
+    <li> Machine Learning Applications in Electronic Design Automation, Springer 2022  </li>
+    <ol>
+      <li> Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Prediction </li>
+       <li> Deep Learning for Routability </li>
+    </ol>
+</ol>
+
+### Pre-Prints
+
+<ol>
+    <li> <a href="https://arxiv.org/abs/2303.15280">Machine Learning-Based Pre-Routing Timing Prediction with Reduced Pessimism</a> </li>
+</ol>
+
 
 ## Estudiantes activos en el Laboratorio 🟢👨‍💻👩‍💻
 <section id="estudiantes-activos-en-el-laboratorio">
