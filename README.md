@@ -51,7 +51,6 @@
     <li><a href="#habilidades">Habilidades obtenidas en el laboratorioo</a></li>
     <li><a href="#articulos-cientificos">Artículos científicos</a></li>
     <li><a href="#contacto">Contacto</a></li>
-    <li><a href="#objetivos">Objetvos</a></li>
   </ol>
 </details>
 
@@ -77,8 +76,8 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
 <section id="habilidades">
 <div id="badges" align="center">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
-   <img src="https://img.shields.io/badge/OpenLane-%2300c0f3?labelColor=%2300c0f3" alt="OpenLane Badge"/>
-   <img src="https://img.shields.io/badge/OpenROAD-%6dc067?labelColor=%6dc067" alt="OpenROADBadge"/>
+   <img src="https://img.shields.io/badge/OpenLane-%2300c0f3?style=for-the-badge&labelColor=%2300c0f3" alt="OpenLane Badge"/>
+   <img src="https://img.shields.io/badge/OpenROAD-%6dc067?style=for-the-badge&labelColor=%6dc067" alt="OpenROADBadge"/>
 </div>
 
 
@@ -119,12 +118,4 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
 ## Contacto ✉️
 <section id="contacto">
 <a href="mailto:erick.carvajalbarboza@ucr.ac.cr">Correo del Profesor Ing. Erick Carvajal Barboza, PhD</a>
-
-## Objetivos
-<section id="objetivos">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lima-ucr)](https://github.com/lima-ucr/github-readme-stats)
-
-
-
 
