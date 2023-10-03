@@ -19,6 +19,13 @@
 <p align="center">
 <em> Coordinado por: Prof. Erick Carvajal Barboza, PhD  </em>
 </p>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/erick-carvajal-barboza-983bba97/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="300"/>
