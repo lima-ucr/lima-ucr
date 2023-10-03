@@ -75,11 +75,18 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
 
 ## Habilidades obtenidas en el laboratorio. 🪜
 <section id="habilidades">
+<div id="badges" align="center">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
+   <img src="https://img.shields.io/badge/OpenLane-%2300c0f3?labelColor=%2300c0f3" alt="OpenLane Badge"/>
+   <img src="https://img.shields.io/badge/OpenROAD-%6dc067?labelColor=%6dc067" alt="OpenROADBadge"/>
+</div>
+
 
 ### Lenguajes de Programación
 <div id="badges" align="center">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge"/>
-    <img src="https://img.shields.io/badge/TCL-76c893?style=for-the-badge&logoColor=white" alt="SystemVerilog Badge"/>
+    <img src="https://img.shields.io/badge/TCL-76c893?style=for-the-badge&logoColor=white" alt="TCL Badge"/>
+  
 </div>
 
 ### Librerías de Programación
@@ -88,6 +95,7 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
     <img src="https://img.shields.io/badge/Matplotlib-ff0000?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib Badge"/>
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy Badge"/>
+  <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras Badge"/>
 </div>
 
 ## Artículos científicos 📄🖊️
