@@ -107,6 +107,12 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
     <li> <a href="https://ieeexplore.ieee.org/document/8807063">Machine Learning-Based Pre-Routing Timing Prediction with Reduced Pessimism</a> en DAC 2019 </li>
     <li> <a href="https://ieeexplore.ieee.org/abstract/document/9045201">FIST: A Feature-Importance Sampling and Tree-Based Method for Automatic Design Flow Parameter Tuning</a> en ASP-DAC 2020 </li>
     <li> <a href="https://ieeexplore.ieee.org/abstract/document/9407243">Automatic Microprocessor Performance Bug Detection</a> en HPCA 2021 </li>
+    <li> <a href="https://ieeexplore.ieee.org/abstract/document/10590054">Aiding Microprocessor Performance Validation with Machine Learning</a> en ISPASS 2024</li> 
+    <li> <a href="https://ieeexplore.ieee.org/abstract/document/10933594">Improving Pre-Route Delay Estimations in Open-Source EDA Tools via Machine Learning</a> en CONCAPAN 2024 </li>
+    <li> <a href="https://ieeexplore.ieee.org/abstract/document/10933883">Harnessing Design History and Machine Learning for Precise Delay Estimation in Open Source EDA</a> en CONCAPAN 2024 </li>
+    <li> <a href="https://ieeexplore.ieee.org/abstract/document/10933894">Machine Learning for Distributed Denial of Service Attack Detection in Software-defined IoT</a> en CONCAPAN 2024 </li>
+    <li> <a href="https://ieeexplore.ieee.org/abstract/document/10966284">Correlating Pre-Route and Signoff Delay Through Delta-Based Machine Learning Prediction</a> en LASCAS 2025 </li>
+      
 </ol>
   
 ### Capitulos de Libro
@@ -125,18 +131,36 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
     <li> <a href="https://arxiv.org/abs/2303.15280">Machine Learning for Microprocessor Performance Bug Localization</a> </li>
 </ol>
 
-
 ## Estudiantes activos en el Laboratorio 🟢👨‍💻👩‍💻
 <section id="estudiantes-activos-en-el-laboratorio">
+<ul>
+  <li>Melissa Rodríguez Jimenez</li>
+  <li>Kristhel Quesada Lopez</li>
+  <li>David Rodríguez Gutierrez</li>
+</ul>
+
+## Estudiantes pasados 👨‍💻👩‍💻
+<section id="estudiantes-pasados">
 <ul>
   <li>Ana Eugenia Sánchez Villalobos</li>
   <li>Alex Varela Quirós</li>
   <li>Gabriel Alberto Barahona Otoya</li>
   <li>Leonardo Serrano Arias</li>
   <li>Mike Mai Chen</li>
-  <li>Daniel Mauricio Chacón Mora</li>
+  <li>Daniel Chacón Mora</li>
   <li>Mauricio Rodriguez Obando</li>
   <li>Erick Sancho Alvarado</li>
+  <li>Antonio Franchi Chong-Kan </li>
+  <li>Sebastián Carvajal Sancho </li>
+  <li>Gabriel Briceño Cambronero </li>
+  <li>Lorena Solís Extteny </li>
+  <li>Jorge Meneses Garro </li>
+  <li>Ismael Jiménez Carballo </li>
+  <li>Rubén García Mendez</li>
+  <li>Aurelio Córdoba Valerio </li>
+  <li>Daniel Blanco Solis</li>
+  <li>Marvin Castro Castro </li>
+  <li>Bryan Mora Porras </li>
 </ul>
 
 ## Contacto ✉️
