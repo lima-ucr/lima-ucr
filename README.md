@@ -63,14 +63,22 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
 ### 📍 Ubicación 
   IE-511
 
-## Proyectos en progreso ▪️◾◼️⬛
+## Proyectos ▪️◾◼️⬛
 <section id="proyectos-en-progreso">
 <ul>
-  <li>Implementación de un modelo de Machine Learning para la predicción de retardos en circuitos integrados 🧑‍💻🕐</li>
-  <li>Implementación de un modelo de Deeo Learning para la predicción de rutabilidad en circuitos integrados 🧑‍💻</li>
+  <li>Implementación de modelos de Machine Learning para la predicción de retardos en circuitos integrados 🧑‍💻🕐</li>
+  <li>Implementación de modelos de Deep Learning para la predicción de rutabilidad en circuitos integrados 🧑‍💻</li>
   <li>Creación de un Manual de uso de la herramienta OpenLANE ✏️📑</li>
   <li>Configuración e implementación en OpenLANE de diseños de benchmarks libres de circuitos digitales 🔗⚒️</li>
   <li>Desarrollo de un taller de electrónica para niños/as 👧👦</li>
+  <li>Implementación de modelos de Machine Learning para la predicción de rendimiento de microprocesadores </li>
+  <li>Diseño e Implementación de un procesador RISC-V</li>
+  <li>Estimación automatizada de los factores de actividad de diseños lógicos </li>
+  <li>Visualizador de reportes de temporización de OpenLane </li>
+  <li>Visualizador de componentes lógicos a partir de un netlist </li>
+  <li>Diseño e Implementación de un acelerador de inferencias de Random Forest en una FPGA </li>
+  <li>Documentación en español de OpenRAM </li>
+  
 </ul>
 
 ## Habilidades obtenidas en el laboratorio. 🪜
@@ -161,6 +169,7 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
   <li>Daniel Blanco Solis</li>
   <li>Marvin Castro Castro </li>
   <li>Bryan Mora Porras </li>
+  <li>Kevin Campos Castro </li>
 </ul>
 
 ## Contacto ✉️
