@@ -145,6 +145,7 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
   <li>Melissa Rodríguez Jimenez</li>
   <li>Kristhel Quesada Lopez</li>
   <li>David Rodríguez Gutierrez</li>
+   <li>Allan Alvarado Quirós</li>
 </ul>
 
 ## Estudiantes pasados 👨‍💻👩‍💻
@@ -170,6 +171,7 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
   <li>Marvin Castro Castro </li>
   <li>Bryan Mora Porras </li>
   <li>Kevin Campos Castro </li>
+   <li>Jonatan Hidalgo Morales</li>
 </ul>
 
 ## Contacto ✉️
