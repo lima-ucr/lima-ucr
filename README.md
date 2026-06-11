@@ -120,6 +120,7 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
     <li> <a href="https://ieeexplore.ieee.org/abstract/document/10933883">Harnessing Design History and Machine Learning for Precise Delay Estimation in Open Source EDA</a> en CONCAPAN 2024 </li>
     <li> <a href="https://ieeexplore.ieee.org/abstract/document/10933894">Machine Learning for Distributed Denial of Service Attack Detection in Software-defined IoT</a> en CONCAPAN 2024 </li>
     <li> <a href="https://ieeexplore.ieee.org/abstract/document/10966284">Correlating Pre-Route and Signoff Delay Through Delta-Based Machine Learning Prediction</a> en LASCAS 2025 </li>
+    <li> <a href="https://ieeexplore.ieee.org/abstract/document/10966284">A Study on Machine Learning Models for Predicting Microarchitectural Performance</a> en CONESCAPAN 2025 </li>
       
 </ol>
   
@@ -142,10 +143,11 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
 ## Estudiantes activos en el Laboratorio 🟢👨‍💻👩‍💻
 <section id="estudiantes-activos-en-el-laboratorio">
 <ul>
-  <li>Melissa Rodríguez Jimenez</li>
-  <li>Kristhel Quesada Lopez</li>
-  <li>David Rodríguez Gutierrez</li>
-   <li>Allan Alvarado Quirós</li>
+<li>Joseph Álvarez Sandí</li>
+  <li>Jerry Adolfo Hurado Ramírez</li>
+  <li>Diego Alfaro Segura</li>
+  <li>Josué Jiménez Ramírez</li>
+  <li>Bryan Mora Porras </li>
 </ul>
 
 ## Estudiantes pasados 👨‍💻👩‍💻
@@ -169,9 +171,13 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
   <li>Aurelio Córdoba Valerio </li>
   <li>Daniel Blanco Solis</li>
   <li>Marvin Castro Castro </li>
-  <li>Bryan Mora Porras </li>
   <li>Kevin Campos Castro </li>
    <li>Jonatan Hidalgo Morales</li>
+   <li>Melissa Rodríguez Jimenez</li>
+  <li>Kristhel Quesada Lopez</li>
+  <li>David Rodríguez Gutierrez</li>
+   <li>Allan Alvarado Quirós</li>
+    <li>Elizabeth Matamoros Bojorge </li>
 </ul>
 
 ## Contacto ✉️
