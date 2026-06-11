@@ -79,10 +79,6 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
   <li>Configuración e implementación en OpenLANE de diseños de benchmarks libres de circuitos digitales 🔗⚒️</li>
   <li>Visualizador de reportes de temporización de OpenLane</li>
   <li>Interfaz gráfica interactiva para floorplanning de ASICs</li>
-</ul>
-
-<h3>Visualización, análisis y documentación de diseños digitales</h3>
-<ul>
   <li>Visualizador de componentes lógicos a partir de un netlist</li>
   <li>Documentación en español de OpenRAM</li>
 </ul>
