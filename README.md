@@ -65,20 +65,42 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
 
 ## Proyectos ▪️◾◼️⬛
 <section id="proyectos-en-progreso">
+<h3>Machine Learning aplicado a diseño digital, ASICs y microprocesadores</h3>
 <ul>
   <li>Implementación de modelos de Machine Learning para la predicción de retardos en circuitos integrados 🧑‍💻🕐</li>
   <li>Implementación de modelos de Deep Learning para la predicción de rutabilidad en circuitos integrados 🧑‍💻</li>
+  <li>Implementación de modelos de Machine Learning para la predicción de rendimiento de microprocesadores</li>
+  <li>Estimación automatizada de los factores de actividad de diseños lógicos</li>
+</ul>
+
+<h3>Herramientas EDA, OpenLANE y flujo de diseño de ASICs</h3>
+<ul>
   <li>Creación de un Manual de uso de la herramienta OpenLANE ✏️📑</li>
   <li>Configuración e implementación en OpenLANE de diseños de benchmarks libres de circuitos digitales 🔗⚒️</li>
+  <li>Visualizador de reportes de temporización de OpenLane</li>
+  <li>Interfaz gráfica interactiva para floorplanning de ASICs</li>
+</ul>
+
+<h3>Visualización, análisis y documentación de diseños digitales</h3>
+<ul>
+  <li>Visualizador de componentes lógicos a partir de un netlist</li>
+  <li>Documentación en español de OpenRAM</li>
+</ul>
+
+<h3>Arquitectura de computadores y procesadores RISC-V</h3>
+<ul>
+  <li>Diseño e Implementación de un procesador RISC-V con ejecución fuera de orden</li>
+  <li>Extensión vectorial del procesador RISC-V</li>
+</ul>
+
+<h3>Aceleradores en hardware y FPGA</h3>
+<ul>
+  <li>Diseño e Implementación de un acelerador de inferencias de Random Forest en una FPGA</li>
+</ul>
+
+<h3>Divulgación y educación STEM</h3>
+<ul>
   <li>Desarrollo de un taller de electrónica para niños/as 👧👦</li>
-  <li>Implementación de modelos de Machine Learning para la predicción de rendimiento de microprocesadores </li>
-  <li>Diseño e Implementación de un procesador RISC-V</li>
-  <li>Estimación automatizada de los factores de actividad de diseños lógicos </li>
-  <li>Visualizador de reportes de temporización de OpenLane </li>
-  <li>Visualizador de componentes lógicos a partir de un netlist </li>
-  <li>Diseño e Implementación de un acelerador de inferencias de Random Forest en una FPGA </li>
-  <li>Documentación en español de OpenRAM </li>
-  
 </ul>
 
 ## Habilidades obtenidas en el laboratorio. 🪜
