@@ -161,11 +161,10 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
 ## Estudiantes activos en el Laboratorio 🟢👨‍💻👩‍💻
 <section id="estudiantes-activos-en-el-laboratorio">
 <ul>
-<li>Joseph Álvarez Sandí</li>
-  <li>Jerry Adolfo Hurado Ramírez</li>
-  <li>Diego Alfaro Segura</li>
-  <li>Josué Jiménez Ramírez</li>
-  <li>Bryan Mora Porras </li>
+<li>María José Guevara Matarrita</li>
+  <li>Jesy Rivera Duarte</li>
+    <li>Daniel Alberto Saenz Obando </li>
+  <li>Luis Torres Solis</li>
 </ul>
 
 ## Estudiantes pasados 👨‍💻👩‍💻
@@ -196,6 +195,12 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
   <li>David Rodríguez Gutierrez</li>
    <li>Allan Alvarado Quirós</li>
     <li>Elizabeth Matamoros Bojorge </li>
+  <li>Joseph Álvarez Sandí</li>
+  <li>Jerry Adolfo Hurado Ramírez</li>
+  <li>Diego Alfaro Segura</li>
+  <li>Josué Jiménez Ramírez</li>
+  <li>Bryan Mora Porras </li>
+</ul>
 </ul>
 
 ## Contacto ✉️
