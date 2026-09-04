@@ -156,7 +156,7 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
 
 <ol>
     <li> <a href="https://arxiv.org/abs/2303.15280">Machine Learning for Microprocessor Performance Bug Localization</a> </li>
-  <li> <a href="  https://arxiv.org/pdf/2608.17914">Hybrid ML for Lightweight Pre-Route Delay Estimation in Open-Source IC Design</a> </li>
+  <li> <a href="https://arxiv.org/pdf/2608.17914">Hybrid ML for Lightweight Pre-Route Delay Estimation in Open-Source IC Design</a> </li>
 </ol>
 
 ## Estudiantes activos en el Laboratorio 🟢👨‍💻👩‍💻
