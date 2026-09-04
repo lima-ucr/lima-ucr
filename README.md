@@ -169,7 +169,7 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
 
 ## Estudiantes pasados 👨‍💻👩‍💻
 <section id="estudiantes-pasados">
-<ul>
+<ol>
   <li>Ana Eugenia Sánchez Villalobos</li>
   <li>Alex Varela Quirós</li>
   <li>Gabriel Alberto Barahona Otoya</li>
@@ -200,8 +200,7 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
   <li>Diego Alfaro Segura</li>
   <li>Josué Jiménez Ramírez</li>
   <li>Bryan Mora Porras </li>
-</ul>
-</ul>
+</ol>
 
 ## Contacto ✉️
 <section id="contacto">
