@@ -189,7 +189,7 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
   <li>Daniel Blanco Solis</li>
   <li>Marvin Castro Castro </li>
   <li>Kevin Campos Castro </li>
-   <li>Jonatan Hidalgo Morales</li>
+   <li>Jonatán Hidalgo Morales</li>
    <li>Melissa Rodríguez Jimenez</li>
   <li>Kristhel Quesada Lopez</li>
   <li>David Rodríguez Gutierrez</li>
