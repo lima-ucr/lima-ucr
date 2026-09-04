@@ -143,9 +143,8 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
 </ol>
   
 ### Capitulos de Libro
-
 <ol>
-    <li> Machine Learning Applications in Electronic Design Automation, Springer 2022  </li>
+    <li> <a href="https://ieeexplore.ieee.org/abstract/document/10966284">Machine Learning Applications in Electronic Design Automation</a> , Springer 2022  </li>
     <ol>
       <li> Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Prediction </li>
        <li> Deep Learning for Routability </li>
