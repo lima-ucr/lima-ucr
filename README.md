@@ -60,23 +60,23 @@ El principal objetivo del laboratorio es el estudio de los procesos de automatiz
 
 Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje automático para acelerar o hacer más precisos cada uno de los pasos del flujo de diseño de circuitos integrados.
 
-### 📍 Ubicación 
+###  Ubicación 
   IE-511
 
-## Proyectos ▪️◾◼️⬛
+## Proyectos
 <section id="proyectos-en-progreso">
 <h3>Machine Learning aplicado a diseño digital, ASICs y microprocesadores</h3>
 <ul>
-  <li>Implementación de modelos de Machine Learning para la predicción de retardos en circuitos integrados 🧑‍💻🕐</li>
-  <li>Implementación de modelos de Deep Learning para la predicción de rutabilidad en circuitos integrados 🧑‍💻</li>
+  <li>Implementación de modelos de Machine Learning para la predicción de retardos en circuitos integrados </li>
+  <li>Implementación de modelos de Deep Learning para la predicción de rutabilidad en circuitos integrados </li>
   <li>Implementación de modelos de Machine Learning para la predicción de rendimiento de microprocesadores</li>
   <li>Estimación automatizada de los factores de actividad de diseños lógicos</li>
 </ul>
 
 <h3>Herramientas EDA, OpenLANE y flujo de diseño de ASICs</h3>
 <ul>
-  <li>Creación de un Manual de uso de la herramienta OpenLANE ✏️📑</li>
-  <li>Configuración e implementación en OpenLANE de diseños de benchmarks libres de circuitos digitales 🔗⚒️</li>
+  <li>Creación de un Manual de uso de la herramienta OpenLANE </li>
+  <li>Configuración e implementación en OpenLANE de diseños de benchmarks libres de circuitos digitales </li>
   <li>Visualizador de reportes de temporización de OpenLane</li>
   <li>Interfaz gráfica interactiva para floorplanning de ASICs</li>
   <li>Visualizador de componentes lógicos a partir de un netlist</li>
@@ -96,10 +96,10 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
 
 <h3>Divulgación y educación STEM</h3>
 <ul>
-  <li>Desarrollo de un taller de electrónica para niños/as 👧👦</li>
+  <li>Desarrollo de un taller de electrónica para niños/as </li>
 </ul>
 
-## Habilidades obtenidas en el laboratorio. 🪜
+## Habilidades obtenidas en el laboratorio. 
 <section id="habilidades">
 <div id="badges" align="center">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
@@ -124,7 +124,7 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
   <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras Badge"/>
 </div>
 
-## Artículos científicos 📄🖊️
+## Artículos científicos 
 <section id="articulos-cientificos">
 
 ### Artículos de Conferencia
