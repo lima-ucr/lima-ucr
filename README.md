@@ -202,7 +202,7 @@ Actualmente trabajos proyectos donde se utilizan algoritmos de aprendizaje autom
   <li>Bryan Mora Porras </li>
 </ol>
 
-## Contacto ✉️
+## Contacto 
 <section id="contacto">
 <a href="mailto:erick.carvajalbarboza@ucr.ac.cr">Correo del Profesor Ing. Erick Carvajal Barboza, PhD</a>
 
